@@ -1,0 +1,3 @@
+dependencies:
+  ssd1306:
+    git: https://github.com/studeo14/ssd1306.git
